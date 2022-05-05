@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋 This is [T3t5uy4](https://t3t5uy4.github.io/about/)~~~
 
-[![T3t5uy4's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3t5uy4)](https://github.com/T3t5uy4)
+---
+
+<p align="center">
+  <a href="https://github.com/T3t5uy4" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=T3t5uy4&show_icons=true&theme=prussian" alt="T3t5uy4's Stats" >
+  </a>
+</p>
 
 <!--
 **T3t5uy4/T3t5uy4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

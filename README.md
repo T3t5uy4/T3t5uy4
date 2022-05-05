@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![T3t5uy4's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3t5uy4)](https://github.com/T3t5uy4)
+[![T3t5uy4's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3t5uy4)
 
 <!--
 **T3t5uy4/T3t5uy4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
